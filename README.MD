@@ -7,6 +7,7 @@
 ## Setup
 - Download a vcf contacts file from GContacts
 - Paste the path for said contacts file into `path = ` on line 7
+- Requires MacOS that is connected to iMessages
 ## Use
 - In directory boot up `ipython` in terminal
 - Enter `from imsg_counter import *`
