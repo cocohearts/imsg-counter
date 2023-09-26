@@ -2,7 +2,7 @@
 
 ## Dependencies
 - `pip install git+https://github.com/my-other-github-account/imessage_tools.git`
-- Also requires terminal full disk access, as described [https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/]
+- Requires terminal full disk access, as described [here](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/)
 - `ipython`
 ## Setup
 - Download a vcf contacts file from GContacts
